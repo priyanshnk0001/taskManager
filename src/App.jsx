@@ -36,7 +36,7 @@ function App() {
 
   return (
 
-    <div className="App w-[100%] text-center flex justify-center flex-col p-4  bg-amber-200 ">
+    <div className="App w-[95%] mx-auto mt-[50px] border-1 text-center flex justify-center  flex-col p-4   ">
       <h1 className='text-blue-400 text-[30px] my-4'>TASK MANAGER</h1>
       <form className='w-[100%] flex gap-5  ' onSubmit={savedData}>
         <input className='border-1 p-2 w-3/4 hover:bg-amber-50' placeholder='Enter text ' type="text" name='title' />
