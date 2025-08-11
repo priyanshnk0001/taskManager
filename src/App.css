@@ -1,0 +1,43 @@
+.manualLicross{
+    position: absolute;
+    right: 40px;
+    font: 20px sans-serif;
+    
+    
+}
+
+.manualLicross:hover{
+    color: white;
+    
+    /* background-color: lightgoldenrodyellow; */
+}
+
+
+
+.manualLiedit{
+    position: absolute;
+    right: 80px;
+  
+}
+
+.manualLiedit:hover{
+        color: white;
+        
+    /* background-color: lightgoldenrodyellow; */
+}
+
+
+
+
+.completeTodo{
+    text-decoration: line-through;
+    color: #fcf9f9;
+    background-color: #cbc2c2;
+    width: full;
+    padding: 8px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-radius: 16px;
+    display: flex;
+
+}
